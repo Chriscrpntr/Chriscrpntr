@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chriscrpntr
-- 👀 I’m interested in RPA Automation.
-- 🌱 I’m currently learning UiPath and Rust
+- 👋 Hi, I’m @Chriscrpntr (Chris Carpenter)
+- 👀 I’m interested in RPA Automation and debugging
+- 🌱 I’m currently learning Autohotkey and Python
 - 📫 How to reach me chriscrpntr@gmail.com
