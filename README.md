@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Chriscrpntr (Chris Carpenter)
-- 👀 I’m interested in RPA Automation and debugging
-- 🌱 I’m currently learning Autohotkey and Python
+- 👀 I’m interested in Data Engineering and IT Automation
 - 📫 How to reach me chriscrpntr@gmail.com
