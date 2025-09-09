@@ -1,2 +1,1 @@
-I’m a Systems Integration Engineer who thrives on crafting custom solutions to streamline operations and breathe new life into outdated systems.
-Whether it’s building a TCP-based data extraction tool from scratch or replacing a legacy FoxPro DOS system with a modern Python-based platform, I specialize in modernizing infrastructure, slashing inefficiencies, and integrating AI-driven tools for real-time insights.
+I’m a Systems Integration Engineer who thrives on crafting custom solutions to streamline operations. I specialize in modernizing infrastructure, slashing inefficiencies, automation, and integrating AI-driven tools for real-time insights.
