@@ -1,1 +1,1 @@
-I’m a Systems Integration Engineer who thrives on crafting custom solutions to streamline operations. I specialize in modernizing infrastructure, slashing inefficiencies, automation, and integrating AI-driven tools for real-time insights.
+I’m a Systems Integration Engineer passionate about transforming raw data into scalable, analytics-ready solutions. Specializing in data modeling, optimization, and hybrid data pipelines, I design efficient systems that empower businesses with actionable insights.
