@@ -1,1 +1,3 @@
-I’m a Systems Integration Engineer passionate about transforming raw data into scalable, analytics-ready solutions. Specializing in data modeling, optimization, and hybrid data pipelines, I design efficient systems that empower businesses with actionable insights.
+Sole owner of MES that replaced 30-year-old FoxPro, 5 Access DBs, and spreadsheets. 
+Built Flask/PostgreSQL + MongoDB system with Keras autoencoder for chemistry anomaly detection and
+TCP ETL from test machines → auto-certs.
